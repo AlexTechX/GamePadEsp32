@@ -1,0 +1,16 @@
+{
+  "UP": "w",
+  "DOWN": "s",
+  "LEFT": "a",
+  "RIGHT": "d",
+  "ATTACK": "k",
+  "DASH": "l",
+  "PRAYER": "j",
+  "USE_VESSEL": "f",
+  "JUMP": "space",
+  "START": "enter",
+  "SELECT": "shift",
+  "ITEM1": "q",
+  "ITEM2": "e",
+  "ITEM3": "esc"
+}
